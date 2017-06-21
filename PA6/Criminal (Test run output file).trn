@@ -1,0 +1,433 @@
+Crime Suspect Search Tool
+
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+ADD
+
+Add New Suspect
+
+New suspect added to list.
+
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+inquiry
+
+Error!  Command not found.  Please try again.
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+INQUIRY
+
+New Inquiry:
+
+Populating data...Please wait.
+Code name: Big Bang
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+Name: Annie Getcher Gunn
+Details:
+Smokes cigars
+Eats Fritos
+Has red hair
+Has a New York accent
+
+Name: Jackda Ripper
+Details:
+Is computer literate
+Carries a knife
+Bites fingernails
+Has a bodyguard
+
+Name: Quickdraw McGraw
+Details:
+Is computer literate
+Has a bodyguard
+Has a Texas accent
+
+Name: Sloan de Uptake
+Details:
+Is computer literate
+Bites fingernails
+Has red hair
+Has a bodyguard
+
+Name: Slowdrawl Raul
+Details:
+Eats Fritos
+Is computer literate
+Carries a knife
+Has a Texas accent
+
+Name: The Joker
+Details:
+Hates Batman
+Looks like a clown
+Tall and skinny
+
+Name: Twingun Morgan
+Details:
+Smokes cigars
+Has red hair
+Has a New York accent
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+check
+
+Error!  Command not found.  Please try again.
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+CHECK
+Name: Darth Vader
+
+Suspect Darth Vader not found in list.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+CHECK
+Name: Twingun Morgan
+
+Suspect Twingun Morgan found in list.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+TIP
+Tip Info: Is computer literate
+
+Tip processed. Type PRINT to see possible suspects.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+Name: Jackda Ripper
+Details:
+Is computer literate
+Carries a knife
+Bites fingernails
+Has a bodyguard
+
+Name: Quickdraw McGraw
+Details:
+Is computer literate
+Has a bodyguard
+Has a Texas accent
+
+Name: Sloan de Uptake
+Details:
+Is computer literate
+Bites fingernails
+Has red hair
+Has a bodyguard
+
+Name: Slowdrawl Raul
+Details:
+Eats Fritos
+Is computer literate
+Carries a knife
+Has a Texas accent
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+CHECK
+Name: Twingun Morgan
+
+Suspect Twingun Morgan not found in list.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+CHECK
+Name: Sloan de Uptake
+
+Suspect Sloan de Uptake found in list.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+TIP
+Tip Info: Has a Texas accent
+
+Tip processed. Type PRINT to see possible suspects.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+Name: Quickdraw McGraw
+Details:
+Is computer literate
+Has a bodyguard
+Has a Texas accent
+
+Name: Slowdrawl Raul
+Details:
+Eats Fritos
+Is computer literate
+Carries a knife
+Has a Texas accent
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+TIP
+Tip Info: Carries a knife
+
+Tip processed. Type PRINT to see possible suspects.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+Name: Slowdrawl Raul
+Details:
+Eats Fritos
+Is computer literate
+Carries a knife
+Has a Texas accent
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+TIP
+Tip Info: Has red hair
+
+Tip processed. Type PRINT to see possible suspects.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+There are currently no suspects to display.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+STOP
+
+Are you sure you want to stop this inquiry? (y/n): n
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+There are currently no suspects to display.
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+STOP
+
+Are you sure you want to stop this inquiry? (y/n): y
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+INQUIRY
+
+New Inquiry:
+
+Populating data...Please wait.
+Code name: Retest
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+PRINT
+
+Current Suspect List:
+
+Name: Annie Getcher Gunn
+Details:
+Smokes cigars
+Eats Fritos
+Has red hair
+Has a New York accent
+
+Name: Jackda Ripper
+Details:
+Is computer literate
+Carries a knife
+Bites fingernails
+Has a bodyguard
+
+Name: Quickdraw McGraw
+Details:
+Is computer literate
+Has a bodyguard
+Has a Texas accent
+
+Name: Sloan de Uptake
+Details:
+Is computer literate
+Bites fingernails
+Has red hair
+Has a bodyguard
+
+Name: Slowdrawl Raul
+Details:
+Eats Fritos
+Is computer literate
+Carries a knife
+Has a Texas accent
+
+Name: The Joker
+Details:
+Hates Batman
+Looks like a clown
+Tall and skinny
+
+Name: Twingun Morgan
+Details:
+Smokes cigars
+Has red hair
+Has a New York accent
+
+Enter one of the following commands:
+
+	TIP: Search suspects by attribute.
+	CHECK: Search suspects by name.
+	PRINT: Print set of active suspects.
+	STOP: Ends the current inquiry.
+
+STOP
+
+Are you sure you want to stop this inquiry? (y/n): y
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+QUIT
+
+Are you sure you want to quit? (y/n): n
+Main Menu:
+
+Enter one of the following commands:
+
+	ADD: Add a suspect to the list.
+	INQUIRY: Conduct an inquiry.
+	QUIT: Save and quit the program.
+
+QUIT
+
+Are you sure you want to quit? (y/n): y
